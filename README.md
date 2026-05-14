@@ -1,5 +1,9 @@
 # Prisma-AIRS-Secure-AI-Agent
 
+<image-card alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>
+<image-card alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg" ></image-card>
+<image-card alt="Prisma AIRS" src="https://img.shields.io/badge/Prisma%20AIRS-Protected-blue" ></image-card>
+
 **Secure Voice & Text AI Agents with Palo Alto Networks Prisma AIRS**
 
 We built a production-ready serverless AI agent called **Tyler** — a professional personal assistant for Remo AI — and protected it using **Prisma AIRS** as a real-time security layer (scanning both user prompts and LLM responses).
