@@ -1,7 +1,3 @@
-<image-card alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg" ></image-card>
-<image-card alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg" ></image-card>
-<image-card alt="Prisma AIRS" src="https://img.shields.io/badge/Prisma%20AIRS-Protected-blue" ></image-card>
-
 # Prisma-AIRS-Secure-AI-Agent
 
 **Secure Voice & Text AI Agents with Palo Alto Networks Prisma AIRS**
