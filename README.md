@@ -34,4 +34,4 @@ Built a fully functional voice agent called **"Tyler"** with dual-layer runtime 
 - GitHub: [https://github.com/suhasdasari/Prisma-AIRS-Secure-AI-Agent](https://github.com/suhasdasari/Prisma-AIRS-Secure-AI-Agent)
 - Research Paper: (will be updated after arXiv submission)
 
-Made with ❤️ by **Remo AI**
+
